@@ -1,0 +1,14 @@
+.products-details-failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.products-details-loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
